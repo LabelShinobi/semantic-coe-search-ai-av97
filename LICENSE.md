@@ -1,4 +1,4 @@
-# 
+# Custom Semantic Code Search extensions. Featuring user-friendly-interface and open-source — optimized for maximum performance and efficiency.
 
 
 
